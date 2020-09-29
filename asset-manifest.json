@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mosters-collection/static/css/main.2c1865e8.chunk.css",
+    "main.js": "/mosters-collection/static/js/main.0657b9cc.chunk.js",
+    "main.js.map": "/mosters-collection/static/js/main.0657b9cc.chunk.js.map",
+    "runtime-main.js": "/mosters-collection/static/js/runtime-main.35a82896.js",
+    "runtime-main.js.map": "/mosters-collection/static/js/runtime-main.35a82896.js.map",
+    "static/js/2.bf65a8a0.chunk.js": "/mosters-collection/static/js/2.bf65a8a0.chunk.js",
+    "static/js/2.bf65a8a0.chunk.js.map": "/mosters-collection/static/js/2.bf65a8a0.chunk.js.map",
+    "index.html": "/mosters-collection/index.html",
+    "precache-manifest.e70793cd177fab9cd907ec47c04350fd.js": "/mosters-collection/precache-manifest.e70793cd177fab9cd907ec47c04350fd.js",
+    "service-worker.js": "/mosters-collection/service-worker.js",
+    "static/css/main.2c1865e8.chunk.css.map": "/mosters-collection/static/css/main.2c1865e8.chunk.css.map",
+    "static/js/2.bf65a8a0.chunk.js.LICENSE.txt": "/mosters-collection/static/js/2.bf65a8a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35a82896.js",
+    "static/js/2.bf65a8a0.chunk.js",
+    "static/css/main.2c1865e8.chunk.css",
+    "static/js/main.0657b9cc.chunk.js"
+  ]
+}
